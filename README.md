@@ -1,2 +1,2 @@
 # frc-bot.github.io
-Future website for FRC Bot
+Github Pages for FRC Bot
